@@ -16,6 +16,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\Infrastructure\Data\Infrastructure.Data\Infrastructure.Data.csproj" />
+    <ProjectReference Include="..\..\Utility\NoSql\NoSql.Redis\NoSql.Redis.csproj" />
   </ItemGroup>
 
 </Project>

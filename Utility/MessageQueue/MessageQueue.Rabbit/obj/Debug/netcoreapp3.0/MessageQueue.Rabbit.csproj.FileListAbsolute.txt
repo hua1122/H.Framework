@@ -1,0 +1,7 @@
+E:\Work\Test\Framework\H.Framework\Utility\MessageQueue\MessageQueue.Rabbit\bin\Debug\netcoreapp3.0\MessageQueue.Rabbit.deps.json
+E:\Work\Test\Framework\H.Framework\Utility\MessageQueue\MessageQueue.Rabbit\bin\Debug\netcoreapp3.0\MessageQueue.Rabbit.dll
+E:\Work\Test\Framework\H.Framework\Utility\MessageQueue\MessageQueue.Rabbit\obj\Debug\netcoreapp3.0\MessageQueue.Rabbit.AssemblyInfoInputs.cache
+E:\Work\Test\Framework\H.Framework\Utility\MessageQueue\MessageQueue.Rabbit\obj\Debug\netcoreapp3.0\MessageQueue.Rabbit.AssemblyInfo.cs
+E:\Work\Test\Framework\H.Framework\Utility\MessageQueue\MessageQueue.Rabbit\bin\Debug\netcoreapp3.0\MessageQueue.Rabbit.pdb
+E:\Work\Test\Framework\H.Framework\Utility\MessageQueue\MessageQueue.Rabbit\obj\Debug\netcoreapp3.0\MessageQueue.Rabbit.dll
+E:\Work\Test\Framework\H.Framework\Utility\MessageQueue\MessageQueue.Rabbit\obj\Debug\netcoreapp3.0\MessageQueue.Rabbit.pdb

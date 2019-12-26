@@ -1,0 +1,14 @@
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\obj\Debug\netcoreapp3.0\Test.Console.csprojAssemblyReference.cache
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\obj\Debug\netcoreapp3.0\Test.Console.AssemblyInfoInputs.cache
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\obj\Debug\netcoreapp3.0\Test.Console.AssemblyInfo.cs
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Test.Console.exe
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Test.Console.deps.json
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Test.Console.runtimeconfig.json
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Test.Console.runtimeconfig.dev.json
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Test.Console.dll
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Test.Console.pdb
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Infrastructure.Expressions.dll
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\bin\Debug\netcoreapp3.0\Infrastructure.Expressions.pdb
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\obj\Debug\netcoreapp3.0\Test.Console.csproj.CopyComplete
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\obj\Debug\netcoreapp3.0\Test.Console.dll
+E:\Work\Test\Framework\H.Framework\Tset\Test.Console\obj\Debug\netcoreapp3.0\Test.Console.pdb
