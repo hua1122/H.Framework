@@ -23,7 +23,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NoSql", "NoSql", "{609DF766
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoSql.Redis", "Utility\NoSql\NoSql.Redis\NoSql.Redis.csproj", "{555E31C5-F192-4432-B336-8BBECDE048C5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda.Extension", "..\..\..\Code\NuGet\Infrastructure\Lambda.Extension\Lambda.Extension.csproj", "{D0A3C494-FB61-49BF-B5FD-F0B321015199}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda.Extension", "Infrastructure\Data\Lambda.Extension\Lambda.Extension.csproj", "{D0A3C494-FB61-49BF-B5FD-F0B321015199}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
