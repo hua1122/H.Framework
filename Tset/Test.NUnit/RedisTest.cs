@@ -20,9 +20,14 @@ namespace Test.NUnit
         [Test]
         public void TestString()
         {
-            Assert.IsTrue(_cacheManager.Add("key1", "value1", 100 * 1000));
-            Assert.NotNull(_cacheManager.Get("key1"));
-            Assert.IsTrue(_cacheManager.Remove("key1"));
+            string key = "key1";
+            if (_cacheManager.Exist(key))
+            {
+                Assert.IsTrue(_cacheManager.Remove(key));
+            }
+            Assert.IsTrue(_cacheManager.Add(key, "value1", 100 * 1000));
+            Assert.NotNull(_cacheManager.Get(key));
+            Assert.IsTrue(_cacheManager.Remove(key));
         }
 
     }

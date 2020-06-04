@@ -7,19 +7,19 @@ using StackExchange.Redis;
 
 namespace NoSql.Redis
 {
-    public static class RedisContext
+    internal static class RedisContext
     {
         public static readonly string _keyPrefix = ConfigurationManager.AppSettings["redisKey"] ?? "";
         //private static readonly string _redisConnectionString = ConfigurationManager.ConnectionStrings["RedisHost"].ConnectionString;
-        private static readonly string _redisConnectionString = "127.0.0.1:6379,ssl=false,abortConnect=false,connectTimeout=5000";
-        //private static readonly string _redisConnectionString = "192.168.189.242:6379,ssl=false,abortConnect=false,connectTimeout=5000";
+        //private static readonly string _redisConnectionString = "127.0.0.1:6379,ssl=false,abortConnect=false,connectTimeout=5000";
+        private static readonly string _redisConnectionString = "192.168.189.242:6379,ssl=false,abortConnect=false,connectTimeout=5000";
         private static readonly ConcurrentDictionary<string, ConnectionMultiplexer> _connectionCache = new ConcurrentDictionary<string, ConnectionMultiplexer>();
 
         private static readonly object _locker = new object();
         private static ConnectionMultiplexer _instance;
 
         /// <summary>
-        /// 单例获取
+        /// 单例实例
         /// </summary>
         public static ConnectionMultiplexer Instance
         {

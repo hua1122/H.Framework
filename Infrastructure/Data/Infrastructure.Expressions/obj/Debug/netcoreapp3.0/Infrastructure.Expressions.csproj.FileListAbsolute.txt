@@ -1,8 +1,0 @@
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\bin\Debug\netcoreapp3.0\Infrastructure.Expressions.deps.json
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\bin\Debug\netcoreapp3.0\Infrastructure.Expressions.dll
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\bin\Debug\netcoreapp3.0\Infrastructure.Expressions.pdb
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\obj\Debug\netcoreapp3.0\Infrastructure.Expressions.csprojAssemblyReference.cache
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\obj\Debug\netcoreapp3.0\Infrastructure.Expressions.AssemblyInfoInputs.cache
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\obj\Debug\netcoreapp3.0\Infrastructure.Expressions.AssemblyInfo.cs
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\obj\Debug\netcoreapp3.0\Infrastructure.Expressions.dll
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Expressions\obj\Debug\netcoreapp3.0\Infrastructure.Expressions.pdb

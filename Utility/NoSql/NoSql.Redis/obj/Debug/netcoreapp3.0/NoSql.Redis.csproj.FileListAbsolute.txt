@@ -1,8 +1,8 @@
 E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\bin\Debug\netcoreapp3.0\NoSql.Redis.deps.json
 E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\bin\Debug\netcoreapp3.0\NoSql.Redis.dll
-E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\obj\Debug\netcoreapp3.0\NoSql.Redis.csprojAssemblyReference.cache
 E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\obj\Debug\netcoreapp3.0\NoSql.Redis.AssemblyInfoInputs.cache
 E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\obj\Debug\netcoreapp3.0\NoSql.Redis.AssemblyInfo.cs
 E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\bin\Debug\netcoreapp3.0\NoSql.Redis.pdb
 E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\obj\Debug\netcoreapp3.0\NoSql.Redis.dll
 E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\obj\Debug\netcoreapp3.0\NoSql.Redis.pdb
+E:\Work\Test\Framework\H.Framework\Utility\NoSql\NoSql.Redis\obj\Debug\netcoreapp3.0\NoSql.Redis.csprojAssemblyReference.cache

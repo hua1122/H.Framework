@@ -1,6 +1,5 @@
 E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Data\bin\Debug\netcoreapp3.0\Infrastructure.Data.deps.json
 E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Data\bin\Debug\netcoreapp3.0\Infrastructure.Data.dll
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Data\obj\Debug\netcoreapp3.0\Infrastructure.Data.csprojAssemblyReference.cache
 E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Data\obj\Debug\netcoreapp3.0\Infrastructure.Data.AssemblyInfoInputs.cache
 E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Data\obj\Debug\netcoreapp3.0\Infrastructure.Data.AssemblyInfo.cs
 E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Infrastructure.Data\bin\Debug\netcoreapp3.0\Infrastructure.Data.pdb
