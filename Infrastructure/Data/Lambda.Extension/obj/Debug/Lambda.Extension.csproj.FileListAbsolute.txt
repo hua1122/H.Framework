@@ -1,8 +1,0 @@
-E:\Work\Code\NuGet\Infrastructure\Lambda.Extension\bin\Debug\Lambda.Extension.dll
-E:\Work\Code\NuGet\Infrastructure\Lambda.Extension\bin\Debug\Lambda.Extension.pdb
-E:\Work\Code\NuGet\Infrastructure\Lambda.Extension\obj\Debug\Lambda.Extension.dll
-E:\Work\Code\NuGet\Infrastructure\Lambda.Extension\obj\Debug\Lambda.Extension.pdb
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Lambda.Extension\bin\Debug\Lambda.Extension.dll
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Lambda.Extension\bin\Debug\Lambda.Extension.pdb
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Lambda.Extension\obj\Debug\Lambda.Extension.dll
-E:\Work\Test\Framework\H.Framework\Infrastructure\Data\Lambda.Extension\obj\Debug\Lambda.Extension.pdb

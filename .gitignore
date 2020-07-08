@@ -1,0 +1,12 @@
+/Infrastructure/Data/Infrastructure.Data/bin
+/Infrastructure/Data/Infrastructure.Data/obj
+/Infrastructure/Data/Lambda.Extension/obj
+/Infrastructure/Data/Lambda.Extension/bin
+/Tset/Test.NUnit/obj
+/Tset/Test.NUnit/bin
+/Utility/MessageQueue/MessageQueue.Rabbit/obj
+/Utility/MessageQueue/MessageQueue.Rabbit/bin
+/Utility/NoSql/NoSql.MongoDB/obj
+/Utility/NoSql/NoSql.MongoDB/bin
+/Utility/NoSql/NoSql.Redis/obj
+/Utility/NoSql/NoSql.Redis/bin

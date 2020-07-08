@@ -7,7 +7,7 @@ using StackExchange.Redis;
 
 namespace NoSql.Redis
 {
-    internal static class RedisContext
+    internal class RedisContext
     {
         public static readonly string _keyPrefix = ConfigurationManager.AppSettings["redisKey"] ?? "";
         //private static readonly string _redisConnectionString = ConfigurationManager.ConnectionStrings["RedisHost"].ConnectionString;

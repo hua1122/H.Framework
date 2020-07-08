@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NoSql.Redis", "Utility\NoSq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda.Extension", "Infrastructure\Data\Lambda.Extension\Lambda.Extension.csproj", "{D0A3C494-FB61-49BF-B5FD-F0B321015199}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NoSql.MongoDB", "Utility\NoSql\NoSql.MongoDB\NoSql.MongoDB.csproj", "{24FFDC00-8050-4D4A-A271-17005A95DDBB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{D0A3C494-FB61-49BF-B5FD-F0B321015199}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0A3C494-FB61-49BF-B5FD-F0B321015199}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0A3C494-FB61-49BF-B5FD-F0B321015199}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24FFDC00-8050-4D4A-A271-17005A95DDBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24FFDC00-8050-4D4A-A271-17005A95DDBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24FFDC00-8050-4D4A-A271-17005A95DDBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24FFDC00-8050-4D4A-A271-17005A95DDBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -64,6 +70,7 @@ Global
 		{609DF766-EDDD-49ED-AA5D-8C9A08323256} = {44C47032-573F-4BC2-A3AC-5312AEB0BB96}
 		{555E31C5-F192-4432-B336-8BBECDE048C5} = {609DF766-EDDD-49ED-AA5D-8C9A08323256}
 		{D0A3C494-FB61-49BF-B5FD-F0B321015199} = {D4D7C765-6BEC-4279-A9D9-E5F4D5BB3501}
+		{24FFDC00-8050-4D4A-A271-17005A95DDBB} = {609DF766-EDDD-49ED-AA5D-8C9A08323256}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {46C3887A-B678-45FD-8241-8BBEBB282E99}
